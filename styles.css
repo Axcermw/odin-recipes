@@ -1,0 +1,13 @@
+h1 {
+    color: orange;
+    text-align: center;
+}
+
+h2 {
+    background-color: burlywood;
+    color: black;
+}
+
+ol li {
+    font-style: italic;
+}
